@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791021163063",
+    "project_id": "tryingbase-15d27",
+    "storage_bucket": "tryingbase-15d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791021163063:android:6c5608e5a738acb63e25b2",
+        "android_client_info": {
+          "package_name": "com.example.carbon_coins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791021163063-8639eov2emtildv5e17p8kruejs74gof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjzuk65l_YhtSG3X5Biuv7ykYh_NarO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791021163063-8639eov2emtildv5e17p8kruejs74gof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
